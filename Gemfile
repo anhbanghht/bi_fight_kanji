@@ -18,7 +18,7 @@ gem "sdoc", "~> 0.4.0", group: :doc
 
 # Use Capistrano for deployment
 # gem "capistrano-rails", group: :development
-
+gem 'paperclip', '~> 4.1'
 gem "devise"
 gem "bootstrap-sass", "~> 3.2.0"
 gem "autoprefixer-rails"
