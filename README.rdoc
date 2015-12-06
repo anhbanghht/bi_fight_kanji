@@ -11,6 +11,11 @@ Nguyen Truong Thanh  20112272
 Nguyen Thanh Luan  20001823
 
 Vu Duc Quy  20112031
+
+
+## サービス名: bi_fight_kanji
+
+
 --------------------------------------------------------------------------------
 Rails project
 
